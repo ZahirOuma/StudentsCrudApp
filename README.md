@@ -22,8 +22,9 @@ Ce projet est une application Android qui permet de gérer une liste d'étudiant
 ## Technologies Utilisées
 
 - Android Studio
-- Java/Kotlin
-- SQLite (pour le stockage des données)
+- Java
+- MySql (pour le stockage des données)
+- PhP (pour le backend)
 
 ## Installation
 
